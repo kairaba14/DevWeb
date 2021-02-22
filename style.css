@@ -1,0 +1,33 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+
+.container-fluid{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer{
+    padding-top: 1.5rem;
+}
+
+h1 {
+    padding: 2rem;
+}
+
+.bottom {
+    padding-top: 2rem; 
+    padding-bottom: 2rem;
+}
+
+.picture {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
